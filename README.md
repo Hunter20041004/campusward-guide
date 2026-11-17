@@ -2,6 +2,8 @@
 
 第九週作業，用 AGENTS.md 約定寫法與頁面格式，做一個能持續加內容的使用指南，這是獨立示範網站，沒有修改或部署 Campusward 本體。
 
+公開網站：https://hunter20041004.github.io/campusward-guide/
+
 ## 開啟
 
 需要 Node.js 20 以上，不用安裝套件，在此資料夾執行：
