@@ -1,0 +1,8 @@
+{
+  "name": "campusward-user-guide",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"check": "node scripts/check.mjs", "start": "node scripts/serve.mjs"},
+  "engines": {"node": ">=20"}
+}
